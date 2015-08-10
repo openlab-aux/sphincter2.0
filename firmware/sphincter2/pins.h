@@ -2,7 +2,7 @@
  * pins.h
  *
  * Created: 01.08.2015 03:39:29
- *  Author: phil_
+ *  Author: phil_underscore
  */ 
 
 
