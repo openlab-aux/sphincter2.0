@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "sphincter2", "sphincter2\sphincter2.cproj", "{B39CDA92-6B65-4CF5-A336-8487314348F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39CDA92-6B65-4CF5-A336-8487314348F7}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B39CDA92-6B65-4CF5-A336-8487314348F7}.Debug|AVR.Build.0 = Debug|AVR
+		{B39CDA92-6B65-4CF5-A336-8487314348F7}.Release|AVR.ActiveCfg = Release|AVR
+		{B39CDA92-6B65-4CF5-A336-8487314348F7}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
